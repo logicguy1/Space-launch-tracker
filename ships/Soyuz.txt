@@ -1,0 +1,9 @@
+
+Soyuz Rocket Information
+
+Manufacturer: Progress Rocket Space Centre
+Class: medium launcher
+Weight: 305t
+max payload weight: 6,9t
+main fuel: kerosene
+Country of origin: Russia
