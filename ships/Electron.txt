@@ -1,0 +1,9 @@
+
+Electron Rocket Information
+
+Manufacturer: Rocket Lab
+Class: small launcher
+Weight: 12t
+max payload weight: 0,3t
+main fuel: kerosene
+Country of origin: New Zealand, United States
