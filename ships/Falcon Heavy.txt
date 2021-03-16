@@ -1,0 +1,9 @@
+
+Falcon Heavy Rocket Information
+
+Manufacturer: SpaceX
+Class: heavy launcher
+Weight: 1420t
+max payload weight: 63,8t
+main fuel: kerosene
+Country of origin: United States
