@@ -1,0 +1,9 @@
+
+Long March Rocket Information
+
+Manufacturer: China Academy of Launch Vehicle Technology
+Class: heavy launcher
+Weight: 854t
+max payload weight: 25t
+main fuel: liquid hydrogen
+Country of origin: China
